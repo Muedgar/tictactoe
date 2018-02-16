@@ -1,0 +1,28 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+#container
+{
+	margin: 50px 0 0 50px;
+    padding: 0;
+    width: 200px;
+    height: 200px;
+}
+.square_container
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 32.66%;
+	display: flex;
+}
+.square
+{
+	margin: 0;
+	padding: 0;
+	width: 32.66%;
+	height: 100%;
+	border: 1px solid black;
+}
